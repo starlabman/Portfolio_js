@@ -52,4 +52,4 @@ I'm a JavaScript Developer working with React and TypeScript. I enjoy writing ar
 
   #### Profile Views
   
-<!-- ![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg)  -->
+![Visitor Count](https://profile-counter.glitch.me/{starlabman1}/count.svg) 
