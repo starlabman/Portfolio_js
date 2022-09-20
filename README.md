@@ -47,7 +47,7 @@ I'm a JavaScript Developer working with React and TypeScript. I enjoy writing ar
   <summary>📊 Github Stats</summary>
 
   <summary>PERSONNAL ACCOUNT</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=starlabman1&show_icons=true&theme=gotham" alt="Joel's Stats" />   
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=starlabman&show_icons=true&theme=gotham" alt="Joel's Stats" />   
   <summary>PRIVATE ACCOUNT</summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dollarstore-git&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
 
